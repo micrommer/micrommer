@@ -4,5 +4,5 @@ This is the main page of my blog, hosted on GitHub Pages.
 
 ## Recent Posts
 
-- [Post 1](post1.md)
+- [DP prime](posts/test.md)
 - [Post 2](post2.md)
