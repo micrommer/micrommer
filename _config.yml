@@ -1,1 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
+title: Blogs
+description: my personal blog
+show_downloads: true
+google_analytics:
